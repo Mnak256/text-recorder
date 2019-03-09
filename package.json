@@ -1,0 +1,19 @@
+{
+  "name": "text-recorder",
+  "version": "1.0.0",
+  "description": "Record and replay text as it is written.",
+  "main": "text-recorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mnak256/text-recorder.git"
+  },
+  "author": "Mainak Dutta (https://github.com/Mnak256)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mnak256/text-recorder/issues"
+  },
+  "homepage": "https://github.com/Mnak256/text-recorder#readme"
+}
