@@ -1,3 +1,12 @@
-textarea {
+#record-text {
     display: block;
+}
+
+#play-btn {
+    display: block;
+}
+
+#play-text {
+    background-color: rgb(231, 244, 255);
+    padding: 5px;
 }
